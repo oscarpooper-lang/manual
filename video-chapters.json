@@ -3,66 +3,66 @@
     "title": "จากคำเชิญ สู่การขึ้นทะเบียน",
     "start": 0,
     "duration": 9.25,
-    "voiceDuration": 8.04
+    "voiceDuration": 6.8
   },
   {
     "title": "ระบุผู้ขอและแผนก",
     "start": 9.25,
     "duration": 12,
-    "voiceDuration": 8.06
+    "voiceDuration": 7.92
   },
   {
     "title": "ตรวจชื่อคู่ค้าและอีเมล",
     "start": 21.25,
     "duration": 12,
-    "voiceDuration": 7.92
+    "voiceDuration": 7.15
   },
   {
     "title": "ทบทวนก่อนส่งคำเชิญ",
     "start": 33.25,
     "duration": 10,
-    "voiceDuration": 8.18
+    "voiceDuration": 7.6
   },
   {
     "title": "รับคำเชิญและเตรียมเอกสาร",
     "start": 43.25,
     "duration": 16,
-    "voiceDuration": 8.52
+    "voiceDuration": 7.81
   },
   {
     "title": "ข้อมูลต้องตรงกับเอกสาร",
     "start": 59.25,
     "duration": 22,
-    "voiceDuration": 13.37
+    "voiceDuration": 13.5
   },
   {
     "title": "บัญชีและเงื่อนไขการค้า",
     "start": 81.25,
     "duration": 16,
-    "voiceDuration": 9.31
+    "voiceDuration": 8.41
   },
   {
     "title": "แนบไฟล์ให้ถูกช่อง",
     "start": 97.25,
     "duration": 17,
-    "voiceDuration": 12.24
+    "voiceDuration": 11.39
   },
   {
     "title": "ตรวจหน้าสรุป แล้วส่งข้อมูล",
     "start": 114.25,
     "duration": 12,
-    "voiceDuration": 7.99
+    "voiceDuration": 8.29
   },
   {
     "title": "บันทึกสำเร็จ ไม่ใช่อนุมัติแล้ว",
     "start": 126.25,
     "duration": 13,
-    "voiceDuration": 10.03
+    "voiceDuration": 9.71
   },
   {
     "title": "ติดตามผลและแก้ไขในเคสเดิม",
     "start": 139.25,
     "duration": 15,
-    "voiceDuration": 10.49
+    "voiceDuration": 11.04
   }
 ]
